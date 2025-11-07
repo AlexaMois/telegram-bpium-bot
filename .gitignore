@@ -1,0 +1,20 @@
+# Config files
+*.json
+*.env
+*.config
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Бипиум кэш
+.bpium/
+node_modules/
