@@ -1,0 +1,12 @@
+{
+  "telegram": {
+    "token": "8561302745:AAGOkAWZWzh3_lp8EWbbfYgYFV8MYQbN9rI",
+    "bot_username": "test_bipium_bot",
+    "webhook_url": "https://neiroresheniya.bpium.ru/api/webrequest/telegram_notes"
+  },
+  "bipium": {
+    "catalog_id": "zametki",
+    "catalog_name": "Заметки",
+    "domain": "neiroresheniya.bpium.ru"
+  }
+}
